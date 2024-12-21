@@ -1,0 +1,33 @@
+plugins {
+    alias(libs.plugins.android.application)
+}
+
+android {
+    namespace 'com.vincenthql.scrctl'
+    compileSdk 34
+    defaultConfig {
+        applicationId "com.vincenthql.scrctl"
+        minSdkVersion 21
+        targetSdkVersion 34
+        versionCode 20500
+        versionName "0.1"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildFeatures {
+        buildConfig true
+        aidl true
+    }
+    
+}
+
+dependencies {
+    testImplementation libs.junit
+}
+
+apply from: "$project.rootDir/build/android-checkstyle.gradle"
