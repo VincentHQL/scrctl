@@ -30,4 +30,4 @@ dependencies {
     testImplementation libs.junit
 }
 
-apply from: "$project.rootDir/build/android-checkstyle.gradle"
+apply from: "$project.rootDir/config/android-checkstyle.gradle"

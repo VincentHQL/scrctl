@@ -22,6 +22,7 @@ dependencyResolutionManagement {
     }
 }
 
-include ':server'
-include ':client'
-include ':jadb'
+include(':client')
+project(':client').projectDir = new File('android/client')
+include(':server')
+project(':server').projectDir = new File('android/server')
