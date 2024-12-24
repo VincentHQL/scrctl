@@ -1,0 +1,4 @@
+com.vincenthql.scrctl.test.server-androidTest-0 /Users/wuzy/workspace/scrctl/android/server/build/generated/res/resValues/androidTest/debug
+com.vincenthql.scrctl.test.server-mergeDebugAndroidTestResources-1 /Users/wuzy/workspace/scrctl/android/server/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.vincenthql.scrctl.test.server-mergeDebugAndroidTestResources-2 /Users/wuzy/workspace/scrctl/android/server/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.vincenthql.scrctl.test.server-debugAndroidTest-3 /Users/wuzy/workspace/scrctl/android/server/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

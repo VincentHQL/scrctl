@@ -1,0 +1,7 @@
+#Tue Dec 24 23:37:53 CST 2024
+base.0=/Users/wuzy/workspace/scrctl/android/server/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/Users/wuzy/workspace/scrctl/android/server/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+path.0=0/classes.dex
+path.1=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

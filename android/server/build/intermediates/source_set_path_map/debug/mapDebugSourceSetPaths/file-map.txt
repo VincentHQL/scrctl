@@ -1,0 +1,7 @@
+com.vincenthql.scrctl.server-pngs-0 /Users/wuzy/workspace/scrctl/android/server/build/generated/res/pngs/debug
+com.vincenthql.scrctl.server-resValues-1 /Users/wuzy/workspace/scrctl/android/server/build/generated/res/resValues/debug
+com.vincenthql.scrctl.server-packageDebugResources-2 /Users/wuzy/workspace/scrctl/android/server/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.vincenthql.scrctl.server-packageDebugResources-3 /Users/wuzy/workspace/scrctl/android/server/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.vincenthql.scrctl.server-debug-4 /Users/wuzy/workspace/scrctl/android/server/build/intermediates/merged_res/debug/mergeDebugResources
+com.vincenthql.scrctl.server-debug-5 /Users/wuzy/workspace/scrctl/android/server/src/debug/res
+com.vincenthql.scrctl.server-main-6 /Users/wuzy/workspace/scrctl/android/server/src/main/res

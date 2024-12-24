@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml:2:1-13
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml:2:1-13
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml:2:1-13
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml:2:1-13
+	package
+		INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+application
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml reason: application injection requested
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+	android:extractNativeLibs
+		INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wuzy/workspace/scrctl/android/server/src/main/AndroidManifest.xml
